@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://minio.booyah.dev/ipa/uYouPlus_18.14.1_3.0.ipa?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=JFSCSQH9J2T2M1X3E4XH%2F20240323%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240323T121243Z&X-Amz-Expires=604800&X-Amz-Security-Token=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJhY2Nlc3NLZXkiOiJKRlNDU1FIOUoyVDJNMVgzRTRYSCIsImV4cCI6MTcxMTIzODg2OSwicGFyZW50Ijoicm9vdCJ9.fNGTZjzLT1eO66H6lZVNhUmi14QNa3Sgp4uVIqJ2_MamtRMVe5uxBruPXYO1AFG_wBcrxVEsg8GDaekokwgFLA&X-Amz-SignedHeaders=host&versionId=null&X-Amz-Signature=436ba24a9cc930890aefab51ffe3a68677d7b6c49d716dfce20fc9c1e24bbe54</string>
+					<string>https://file.booyah.dev/ipa/uYouPlus/uYouPlus_18.14.1_3.0.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
